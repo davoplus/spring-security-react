@@ -24,3 +24,11 @@ mvnw clean install
 ```
 mvnw jetty:run
 ```
+
+### App users and passwords
+
+|USER|PASSWORD|ROLE
+|---|---| 
+|user1|user1Pass|USER
+|user2|user2Pass|USER
+|admin|admin0Pass|ADMIN
