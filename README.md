@@ -32,3 +32,8 @@ mvnw jetty:run
 |user1|user1Pass|USER
 |user2|user2Pass|USER
 |admin|admin0Pass|ADMIN
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
